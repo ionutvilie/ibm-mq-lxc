@@ -9,9 +9,9 @@
 - Unpack file to the root of the github repository
 `tar -zxvf ./mqadv_dev80_linux_x86-64.tar.gz`
 
-## Host
+## localhost
 
-Host is the main Ubuntu OS where containers will run (eg: Ubuntu notebook)   
+localhost is the main Ubuntu OS where containers will run (eg: Ubuntu notebook)   
 
 ### LXC - LXD
 ```bash
