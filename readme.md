@@ -5,9 +5,8 @@
 
 ## Prerequisites
 
-- [Download MQv8 for Linux](https://www.ibm.com/developerworks/community/blogs/messaging/entry/develop_on_websphere_mq_advanced_at_no_charge?lang=en)
-- Unpack file to the root of the github repository
-`tar -zxvf ./mqadv_dev80_linux_x86-64.tar.gz`
+[Download MQv8 for Linux](https://www.ibm.com/developerworks/community/blogs/messaging/entry/develop_on_websphere_mq_advanced_at_no_charge?lang=en)
+
 
 ## localhost
 
