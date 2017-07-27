@@ -4,7 +4,7 @@ References:
  - [CHLAUTH Made Simple](http://www-01.ibm.com/support/docview.wss?uid=swg27041997&aid=1)
 
 ## Prerequisites
- - install MQExplorer on Host
+ - install MQExplorer on localhost
 
 ## On lxc mqm
 
