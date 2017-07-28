@@ -1,11 +1,16 @@
 # IBM MQ Linux Container (lxc)
 
+Tests are made with developer versions of IBM products mq8. 
+These are not easy to find using google, I first discovered ibm's public ftp server by looking at the ibm mq docker file (IBM's official github repository).
+[public.dhe.ibm.com](http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/messaging/mqadv/)
+
  - lxc - linux container. can run more than one process
  - docker - application container, intended to run only one process
 
 ## Prerequisites
 
-[Download MQv8 for Linux](https://www.ibm.com/developerworks/community/blogs/messaging/entry/develop_on_websphere_mq_advanced_at_no_charge?lang=en)
+[Download MQ Dev80 for Linux](https://www.ibm.com/developerworks/community/blogs/messaging/entry/develop_on_websphere_mq_advanced_at_no_charge?lang=en)
+
 
 
 ## localhost
