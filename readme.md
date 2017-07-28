@@ -1,6 +1,6 @@
 # IBM MQ Linux Container (lxc)
 
-Tests are made with developer versions of IBM products mq8. 
+Tests are made with developer versions of IBM products (MQ8). 
 These are not easy to find using google, I first discovered ibm's public ftp server by looking at the ibm mq docker file (IBM's official github repository).
 [public.dhe.ibm.com](http://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/messaging/mqadv/)
 
